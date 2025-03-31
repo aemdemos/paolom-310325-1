@@ -1,0 +1,46 @@
+{
+  "originUrl": "https://blog.ericmatisoff.com",
+  "lastCrawled": "https://blog.ericmatisoff.com/",
+  "urls": [
+    {
+      "url": "https://blog.ericmatisoff.com/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://blog.ericmatisoff.com/posts/assessing-itp-s-effect-on-adobe-analytics-data",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://blog.ericmatisoff.com/posts/debugging-failed-dataset-records-in-experience-platform",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://blog.ericmatisoff.com/posts/rockstar-classifications-use-cases",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://blog.ericmatisoff.com/posts/segmenting-dimensional-value-counts",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://blog.ericmatisoff.com/posts/the-basics-of-marketing-tracking-parameters",
+      "source": "CRAWL"
+    }
+  ],
+  "crawlOptions": {
+    "timeout": 64800000,
+    "inclusionPatterns": [],
+    "exclusionPatterns": [],
+    "limit": -1,
+    "sameDomain": true,
+    "keepHash": false,
+    "strategy": "crawl",
+    "logger": {}
+  },
+  "extractionErrors": [
+    {
+      "url": "https://blog.ericmatisoff.com/favicon/site.webmanifest",
+      "status": "content type is not text/html"
+    }
+  ]
+}
