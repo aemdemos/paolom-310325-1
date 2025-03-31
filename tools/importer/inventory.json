@@ -1,0 +1,265 @@
+{
+  "fragments": [
+    {
+      "name": "nav",
+      "path": "/nav",
+      "instances": [
+        {
+          "url": "https://blog.ericmatisoff.com/",
+          "urlHash": "06b11cfacc0eb8263d31fdeb75f445a02c267c15",
+          "uuid": "06b11cfa-00-d38e25507c74ee933e307e1bd916381070a9dd88",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://blog.ericmatisoff.com/posts/rockstar-classifications-use-cases",
+          "urlHash": "238ed44a632b1da7806755186b610c1ee1522773",
+          "uuid": "238ed44a-00-d38e25507c74ee933e307e1bd916381070a9dd88",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://blog.ericmatisoff.com/posts/debugging-failed-dataset-records-in-experience-platform",
+          "urlHash": "527551453a5f302c1865b3e81c79b0a5779791ad",
+          "uuid": "52755145-00-d38e25507c74ee933e307e1bd916381070a9dd88",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://blog.ericmatisoff.com/posts/segmenting-dimensional-value-counts",
+          "urlHash": "8d350a174107c880ab4a9a7e6e5d5b5ba77d86e4",
+          "uuid": "8d350a17-00-d38e25507c74ee933e307e1bd916381070a9dd88",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://blog.ericmatisoff.com/posts/assessing-itp-s-effect-on-adobe-analytics-data",
+          "urlHash": "8ffc0fe203adf13af7f809ffa2b269d5ff1f9cab",
+          "uuid": "8ffc0fe2-00-d38e25507c74ee933e307e1bd916381070a9dd88",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://blog.ericmatisoff.com/posts/the-basics-of-marketing-tracking-parameters",
+          "urlHash": "b82d84df2cd0d661583b39f44c19323684d1d64f",
+          "uuid": "b82d84df-00-d38e25507c74ee933e307e1bd916381070a9dd88",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/header[1]"
+        }
+      ]
+    },
+    {
+      "name": "footer",
+      "path": "/footer",
+      "instances": []
+    }
+  ],
+  "blocks": [
+    {
+      "name": "Cards",
+      "cluster": 1,
+      "instances": [
+        {
+          "url": "https://blog.ericmatisoff.com/posts/rockstar-classifications-use-cases",
+          "urlHash": "238ed44a632b1da7806755186b610c1ee1522773",
+          "uuid": "238ed44a-03-688892a6c65567b833ddc1b6758b1db4cc088a00",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/section[1]/div[1]"
+        },
+        {
+          "url": "https://blog.ericmatisoff.com/posts/debugging-failed-dataset-records-in-experience-platform",
+          "urlHash": "527551453a5f302c1865b3e81c79b0a5779791ad",
+          "uuid": "52755145-03-688892a6c65567b833ddc1b6758b1db4cc088a00",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/section[1]/div[1]"
+        },
+        {
+          "url": "https://blog.ericmatisoff.com/posts/segmenting-dimensional-value-counts",
+          "urlHash": "8d350a174107c880ab4a9a7e6e5d5b5ba77d86e4",
+          "uuid": "8d350a17-03-688892a6c65567b833ddc1b6758b1db4cc088a00",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/section[1]/div[1]"
+        },
+        {
+          "url": "https://blog.ericmatisoff.com/posts/assessing-itp-s-effect-on-adobe-analytics-data",
+          "urlHash": "8ffc0fe203adf13af7f809ffa2b269d5ff1f9cab",
+          "uuid": "8ffc0fe2-03-688892a6c65567b833ddc1b6758b1db4cc088a00",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/section[1]/div[1]"
+        },
+        {
+          "url": "https://blog.ericmatisoff.com/posts/the-basics-of-marketing-tracking-parameters",
+          "urlHash": "b82d84df2cd0d661583b39f44c19323684d1d64f",
+          "uuid": "b82d84df-03-688892a6c65567b833ddc1b6758b1db4cc088a00",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/section[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Table (no header)",
+      "cluster": 2,
+      "instances": [
+        {
+          "url": "https://blog.ericmatisoff.com/posts/rockstar-classifications-use-cases",
+          "urlHash": "238ed44a632b1da7806755186b610c1ee1522773",
+          "uuid": "238ed44a-00-d38e25507c74ee933e307e1bd916381070a9dd88",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://blog.ericmatisoff.com/posts/debugging-failed-dataset-records-in-experience-platform",
+          "urlHash": "527551453a5f302c1865b3e81c79b0a5779791ad",
+          "uuid": "52755145-00-d38e25507c74ee933e307e1bd916381070a9dd88",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://blog.ericmatisoff.com/posts/segmenting-dimensional-value-counts",
+          "urlHash": "8d350a174107c880ab4a9a7e6e5d5b5ba77d86e4",
+          "uuid": "8d350a17-00-d38e25507c74ee933e307e1bd916381070a9dd88",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://blog.ericmatisoff.com/posts/assessing-itp-s-effect-on-adobe-analytics-data",
+          "urlHash": "8ffc0fe203adf13af7f809ffa2b269d5ff1f9cab",
+          "uuid": "8ffc0fe2-00-d38e25507c74ee933e307e1bd916381070a9dd88",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/header[1]"
+        }
+      ]
+    },
+    {
+      "name": "Table (striped & bordered)",
+      "cluster": 3,
+      "instances": [
+        {
+          "url": "https://blog.ericmatisoff.com/posts/the-basics-of-marketing-tracking-parameters",
+          "urlHash": "b82d84df2cd0d661583b39f44c19323684d1d64f",
+          "uuid": "b82d84df-01-dc142486c43df370f3ddd23e8195fc2603502798",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/article[1]"
+        }
+      ]
+    },
+    {
+      "name": "Table (striped & bordered)",
+      "cluster": 4,
+      "instances": [
+        {
+          "url": "https://blog.ericmatisoff.com/posts/debugging-failed-dataset-records-in-experience-platform",
+          "urlHash": "527551453a5f302c1865b3e81c79b0a5779791ad",
+          "uuid": "52755145-01-dc142486c43df370f3ddd23e8195fc2603502798",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/article[1]"
+        }
+      ]
+    },
+    {
+      "name": "Table (no header)",
+      "cluster": 5,
+      "instances": [
+        {
+          "url": "https://blog.ericmatisoff.com/posts/the-basics-of-marketing-tracking-parameters",
+          "urlHash": "b82d84df2cd0d661583b39f44c19323684d1d64f",
+          "uuid": "b82d84df-00-d38e25507c74ee933e307e1bd916381070a9dd88",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/header[1]"
+        }
+      ]
+    },
+    {
+      "name": "Quote",
+      "cluster": 6,
+      "instances": [
+        {
+          "url": "https://blog.ericmatisoff.com/posts/segmenting-dimensional-value-counts",
+          "urlHash": "8d350a174107c880ab4a9a7e6e5d5b5ba77d86e4",
+          "uuid": "8d350a17-01-dc142486c43df370f3ddd23e8195fc2603502798",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/article[1]"
+        }
+      ]
+    },
+    {
+      "name": "Table (striped & bordered)",
+      "cluster": 7,
+      "instances": [
+        {
+          "url": "https://blog.ericmatisoff.com/posts/assessing-itp-s-effect-on-adobe-analytics-data",
+          "urlHash": "8ffc0fe203adf13af7f809ffa2b269d5ff1f9cab",
+          "uuid": "8ffc0fe2-01-dc142486c43df370f3ddd23e8195fc2603502798",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/article[1]"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 8,
+      "instances": [
+        {
+          "url": "https://blog.ericmatisoff.com/",
+          "urlHash": "06b11cfacc0eb8263d31fdeb75f445a02c267c15",
+          "uuid": "06b11cfa-00-d38e25507c74ee933e307e1bd916381070a9dd88",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/header[1]"
+        }
+      ]
+    },
+    {
+      "name": "Table (striped & bordered)",
+      "cluster": 9,
+      "instances": [
+        {
+          "url": "https://blog.ericmatisoff.com/posts/rockstar-classifications-use-cases",
+          "urlHash": "238ed44a632b1da7806755186b610c1ee1522773",
+          "uuid": "238ed44a-01-dc142486c43df370f3ddd23e8195fc2603502798",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/article[1]"
+        }
+      ]
+    },
+    {
+      "name": "Table (striped & bordered)",
+      "cluster": 10,
+      "instances": [
+        {
+          "url": "https://blog.ericmatisoff.com/",
+          "urlHash": "06b11cfacc0eb8263d31fdeb75f445a02c267c15",
+          "uuid": "06b11cfa-01-e35fcf07a7230e0af7b2cc47d03cff075fccb65f",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/section[1]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 11,
+      "instances": [
+        {
+          "url": "https://blog.ericmatisoff.com/",
+          "urlHash": "06b11cfacc0eb8263d31fdeb75f445a02c267c15",
+          "uuid": "06b11cfa-03-f447ca0ea8c202a1664d343b1f0da065c0e911da",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/section[2]/div[1]"
+        }
+      ]
+    }
+  ],
+  "outliers": [
+    {
+      "url": "https://blog.ericmatisoff.com/",
+      "urlHash": "06b11cfacc0eb8263d31fdeb75f445a02c267c15",
+      "uuid": "06b11cfa-02-830e5a8885f4c5af953ceedfce903cb1d55e6c9a",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/section[2]/h2[1]"
+    },
+    {
+      "url": "https://blog.ericmatisoff.com/posts/rockstar-classifications-use-cases",
+      "urlHash": "238ed44a632b1da7806755186b610c1ee1522773",
+      "uuid": "238ed44a-02-1f03b16584834400803bc79c2d3e16cf7af67638",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/section[1]/h2[1]"
+    },
+    {
+      "url": "https://blog.ericmatisoff.com/posts/debugging-failed-dataset-records-in-experience-platform",
+      "urlHash": "527551453a5f302c1865b3e81c79b0a5779791ad",
+      "uuid": "52755145-02-1f03b16584834400803bc79c2d3e16cf7af67638",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/section[1]/h2[1]"
+    },
+    {
+      "url": "https://blog.ericmatisoff.com/posts/segmenting-dimensional-value-counts",
+      "urlHash": "8d350a174107c880ab4a9a7e6e5d5b5ba77d86e4",
+      "uuid": "8d350a17-02-1f03b16584834400803bc79c2d3e16cf7af67638",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/section[1]/h2[1]"
+    },
+    {
+      "url": "https://blog.ericmatisoff.com/posts/assessing-itp-s-effect-on-adobe-analytics-data",
+      "urlHash": "8ffc0fe203adf13af7f809ffa2b269d5ff1f9cab",
+      "uuid": "8ffc0fe2-02-1f03b16584834400803bc79c2d3e16cf7af67638",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/section[1]/h2[1]"
+    },
+    {
+      "url": "https://blog.ericmatisoff.com/posts/the-basics-of-marketing-tracking-parameters",
+      "urlHash": "b82d84df2cd0d661583b39f44c19323684d1d64f",
+      "uuid": "b82d84df-02-1f03b16584834400803bc79c2d3e16cf7af67638",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/section[1]/h2[1]"
+    }
+  ]
+}
